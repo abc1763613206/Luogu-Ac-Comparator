@@ -6,6 +6,7 @@
 // @author       yyfcpp
 // @match        https://www.luogu.org/space/*
 // @grant        none
+// @namespace    https://github.com/abc1763613206/Luogu-Ac-Comparator
 // ==/UserScript==
 
 
